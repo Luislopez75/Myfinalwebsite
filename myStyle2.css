@@ -1,7 +1,8 @@
+
 body {
     color: gray;
     background-color: black;
-    font-size: large;
+    font-size: 1.5em;
     font-family:Cambria,Georgia,"Book Antiqua",serif;
 }
 
@@ -44,32 +45,37 @@ h1:hover, h2:hover, h3:hover {
 /*images on the Robots page */
 img#img1300 {
     align-self: center;
-    float: right;
+    /*float: right;*/
 }
-
+/*
 img#img1400 {
-    float: left;
-}
+     float: left; 
+}*/
 
 /*images on the main site*/
-img#img2100 {
-    transform: rotateZ(90deg);
-    margin-top: 60px;
-    margin-bottom: 30px;
-    align-self: center;
-}
 
 img#img2200 {
     transform: rotateZ(90deg);
-    margin-top: 60px;
-    margin-bottom: 30px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+   /* float: right; */
 }
 
 img#img2300 {
     transform: rotateZ(90deg);
+    margin-top: 3%;
+    margin-bottom: 5%;
+  /*  float: left; */
+}
+
+/* images on contract 1*/
+img#img2100 {
+    transform: rotateZ(90deg);
     margin-top: 10px;
-    margin-bottom: 10px;
-    float: center;
+}
+
+img#img3100 {
+    transform: rotateZ(90deg);
 }
 
 div#BodyText {
@@ -79,3 +85,33 @@ div#BodyText {
 div#CybertronText {
     font-size: 2.3em;
 }
+
+div#entertainmenttext {
+    font-size: 2em;
+}
+
+div#otherText {
+    font-size: 2em;
+    margin-top: 7%;
+}
+
+div#cybertroneText p{
+    font-size: 2em;
+}
+
+div#mytext {
+    margin-top: 10%;
+}
+
+img#img1300, img#img2200 {
+    float: right;
+}
+
+img#img1400, img#img2300, div#mytext {
+    float: left;
+}
+/*
+div#sidetosidetext {
+    align-self: center;
+}*/
+
