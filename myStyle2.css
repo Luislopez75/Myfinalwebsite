@@ -1,0 +1,81 @@
+body {
+    color: gray;
+    background-color: black;
+    font-size: large;
+    font-family:Cambria,Georgia,"Book Antiqua",serif;
+}
+
+h1 {
+    color:green;
+    font-size: 3em;
+    font-weight:bolder;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left: 20%;
+    margin-right: 20%;
+   }
+
+h2 {
+    color: red;
+    font-size: 2.5em;
+    font-weight:bold;
+    font-family:Arial, Helvetica, sans-serif;
+    clear: both;
+    margin-top: 1.5em;
+}
+
+h3 {
+    color: aqua;
+    font-size: x-large;
+    font-weight:bolder;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 5%;
+}
+
+h1, h2, h3 {
+    border: 2px dashed  chartreuse;
+    width: fit-content;
+
+}
+
+h1:hover, h2:hover, h3:hover {
+    background-color: cornsilk;
+}
+
+/*images on the Robots page */
+img#img1300 {
+    align-self: center;
+    float: right;
+}
+
+img#img1400 {
+    float: left;
+}
+
+/*images on the main site*/
+img#img2100 {
+    transform: rotateZ(90deg);
+    margin-top: 60px;
+    margin-bottom: 30px;
+    align-self: center;
+}
+
+img#img2200 {
+    transform: rotateZ(90deg);
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+
+img#img2300 {
+    transform: rotateZ(90deg);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    float: center;
+}
+
+div#BodyText {
+    font-size: 2em;
+}
+
+div#CybertronText {
+    font-size: 2.3em;
+}
