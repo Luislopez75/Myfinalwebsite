@@ -78,6 +78,12 @@ img#img3100 {
     transform: rotateZ(90deg);
 }
 
+/* images on contract 2
+img#img3200 {
+    transform: rotateZ(90deg);
+}*/
+
+
 div#BodyText {
     font-size: 2em;
 }
@@ -90,11 +96,6 @@ div#entertainmenttext {
     font-size: 1em;
 }
 
-/*
-div#otherText {
-    font-size: 2em;
-    margin-top: 7%;
-}*/
 
 div#cybertroneText p{
     font-size: 2em;
