@@ -117,3 +117,7 @@ div#sidetosidetext {
     align-self: center;
 }*/
 
+p#middletext {
+    width: 500px;
+}
+
