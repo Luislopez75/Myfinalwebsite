@@ -72,10 +72,12 @@ img#img2300 {
 img#img2100 {
     transform: rotateZ(90deg);
     margin-top: 10px;
+    margin-bottom: 1px;
 }
 
 img#img3100 {
     transform: rotateZ(90deg);
+    
 }
 
  /*images on contract 2*/
@@ -83,6 +85,23 @@ img#img3200 {
     transform: rotateZ(90deg);
 }
 
+img#img4100 {
+    float: right;
+    margin-bottom: 30px;
+}
+
+/*images on More About Us page*/
+img#img5200, img#img5300, img#img5400 {
+    transform: rotateZ(90deg);
+    margin-top: 3em;
+    margin-bottom: 4em;
+}
+
+img#img5500, img#img5600 {
+    transform: rotateZ(90deg);
+    margin-top: 4em;
+    margin-bottom: 4em;
+}
 
 div#BodyText {
     font-size: 2em;
@@ -119,5 +138,9 @@ div#sidetosidetext {
 
 p#middletext {
     width: 500px;
+}
+
+div#cybertronvideo {
+    text-align: center;
 }
 

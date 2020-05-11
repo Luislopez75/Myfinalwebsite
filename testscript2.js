@@ -1,3 +1,4 @@
+/*effect on text on the contract 1 page*/
 myitem1 = document.getElementById("bottomtext");
 
 myitem1.addEventListener("mouseover", onMouseOver);
@@ -11,7 +12,7 @@ function onMouseOut() {
     myitem1.style.color = "";
 }
 
-
+/*effect on text on the contract 1 page*/
 myitem2 = document.getElementById("bottomtext2");
 
 myitem2.addEventListener("mouseover", onMouseOver2);
@@ -25,7 +26,7 @@ function onMouseOut2() {
     myitem2.style.color = "";
 }
 
-
+/*effect on text on the contract 1 page*/
 myitem3 = document.getElementById("bottomtext3");
 
 myitem3.addEventListener("mouseover", onMouseOver3);
@@ -39,6 +40,7 @@ function onMouseOut3() {
     myitem3.style.color = "";
 }
 
+/*effect on text on the contract 1 page*/
 myitem4 = document.getElementById("mytext");
 
 myitem4.addEventListener("mouseover", onMouseOver4);
@@ -52,6 +54,7 @@ function onMouseOut4() {
     myitem4.style.color = "";
 }
 
+/*effect on text on the contract 1 page*/
 myitem5 = document.getElementById("contract1");
 
 myitem5.addEventListener("mouseover", onMouseOver5);
