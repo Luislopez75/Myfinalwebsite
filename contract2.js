@@ -32,9 +32,35 @@ myitem8.addEventListener("mouseover", onMouseOver8);
 myitem8.addEventListener("mouseout", onMouseOut8);
 
 function onMouseOver8() {
-    myitem6.style.color = "aqua";
+    myitem8.style.color = "aqua";
 }
 
 function onMouseOut8() {
-    myitem6.style.color = "";
+    myitem8.style.color = "";
+}
+
+myitem9 = document.getElementById("entertainmentext");
+
+myitem9.addEventListener("mouseover", onMouseOver9);
+myitem9.addEventListener("mouseout", onMouseOut9);
+
+function onMouseOver9() {
+    myitem9.style.color = "aqua";
+}
+
+function onMouseOut9() {
+    myitem9.style.color = "";
+}
+
+myitem16 = document.getElementById("textonly2");
+
+myitem16.addEventListener("mouseover", onMouseOver16);
+myitem16.addEventListener("mouseout", onMouseOut16);
+
+function onMouseOver16() {
+    myitem16.style.color = "aqua";
+}
+
+function onMouseOut16() {
+    myitem16.style.color = "";
 }

@@ -85,8 +85,12 @@ img#img3200 {
     transform: rotateZ(90deg);
 }
 
+div#div4100 {
+    width: 100%;
+    text-align: left;
+}
+
 img#img4100 {
-    float: right;
     margin-bottom: 30px;
 }
 
