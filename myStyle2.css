@@ -3,7 +3,7 @@ body {
     color: gray;
     background-color: black;
     font-size: 1.5em;
-    font-family:Cambria,Georgia,"Book Antiqua",serif;
+    font-family:neon absolute
 }
 
 h1 {
@@ -107,22 +107,23 @@ img#img5500, img#img5600 {
     margin-bottom: 4em;
 }
 
+
 div#BodyText {
-    font-size: 2em;
+    font-size: 1em;
 }
-
+/*
 div#CybertronText {
-    font-size: 2.3em;
+    font-size: 1em;
 }
-
+*/
 div#entertainmenttext {
     font-size: 1em;
 }
 
-
+/*
 div#cybertroneText p{
-    font-size: 2em;
-}
+    font-size: 1.5em;
+}*/
 
 div#mytext {
     margin-top: 10%;
